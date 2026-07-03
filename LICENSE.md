@@ -1,4 +1,4 @@
-# 
+# 自定义 Bitdefender Total Security 扩展 Mac OS版 | 开源 Bitdefender Total Security 扩展 PC Windows版。集成 高速服务器 和 安全分享，跨平台性能最大化。
 
 
 
